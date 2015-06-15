@@ -1,0 +1,4 @@
+module.name=iwebtest
+module.defConfig=module.xml
+module.webContext=iwebap
+module.editorVersion=NEW_VERSION

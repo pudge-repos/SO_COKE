@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="gb2312"?>
+<module name="iwebap">
+	<public>
+		<component priority="0" singleton="true" remote="true" tx="NONE" supportAlias="true">
+			<interface>uap.iweb.psndoc.IPsndocManagerService</interface> 
+			<implementation>uap.iweb.psndoc.PsndocManagerServiceImpl</implementation>
+		</component>
+		
+		<component priority="0" singleton="true" remote="true" tx="NONE" supportAlias="true">
+			<interface>uap.iweb.saleorder.ISaleOrderManagerService</interface> 
+			<implementation>uap.iweb.saleorder.SaleOrderManagerServiceImpl</implementation>
+		</component>
+	</public>
+</module>
