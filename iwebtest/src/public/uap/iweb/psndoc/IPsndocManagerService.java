@@ -1,7 +1,7 @@
 package uap.iweb.psndoc;
 
 /**
- * 文本描述eclipse
+ * 阿斯顿发生的eclipse
  * 
  * @author liulibo
  * 
