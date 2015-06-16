@@ -1,7 +1,7 @@
 package uap.iweb.psndoc;
 
 /**
- * ÎÄµµ±àĞ´MyEclipse
+ * ÎÄ±¾ÃèÊöeclipse
  * 
  * @author liulibo
  * 
